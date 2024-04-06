@@ -19,6 +19,7 @@ async def extract_data_from_webpage(url: str, schema: dict) -> dict:
     This function uses the extract_data function from the extraction.extractor module
     to perform the extraction. The extracted data is returned as a dictionary.
     """
+    
     # Call the extract_data function to extract data from the webpage
     extracted_data = extract_data(url, schema)
     
