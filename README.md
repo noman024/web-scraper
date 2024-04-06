@@ -5,4 +5,4 @@ This is a web scrapping tool for scrapping any webpages that gives a user flexib
 [Streamlit Demo Video Link](https://drive.google.com/drive/folders/1b4JbdxkGCsisUacBMhtx9u4HAaxptWtY?usp=sharing)
 
 # Web Scrapper Live Application on Streamlit
-[Deployed App Link](https://drive.google.com/drive/folders/1b4JbdxkGCsisUacBMhtx9u4HAaxptWtY?usp=sharing)
+[Deployed App Link](https://web-scrapper-noman.streamlit.app/)
